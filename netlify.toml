@@ -1,4 +1,4 @@
 [[redirects]]
-  from = "/checkout"
+  from = "/create-checkout-session"
   to = "https://checkout.stripe.com"
   status = 200
